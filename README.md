@@ -12,4 +12,16 @@ The experiments in our paper are evaluated on the following public datasets. You
 - [Tensor Toolbox](https://www.tensortoolbox.org/) (Required for baseline comparisons and some auxiliary tensor operations)
 
 ### Citation
-*(Citation will be updated upon paper acceptance)*
+Please cite our paper if it is helpful. Thank you!
+
+```bibtex
+@article{yang2026tensor,
+  title={Tensor singular value-preserving norm for robust visual data recovery},
+  author={Yang, Lina and Yang, Haoyan and Wu, Thomas and Wang, Yulong and Yang, Tianchuan and Tang, Yuan Yan},
+  journal={Knowledge-Based Systems},
+  volume = {341},
+  pages = {115831},
+  year = {2026},
+  publisher={Elsevier}
+}
+```
